@@ -48,20 +48,13 @@ shoppyglobe-backend/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shoppyglobe-backend.git
+   git clone https://github.com/mohinigehlod/shoppyGlobe-backend.git
    cd shoppyglobe-backend
    ```
 
 2. Install dependencies:
    ```bash
    npm install
-   ```
-
-3. Create a `.env` file and add:
-   ```env
-   MONGO_URI=mongodb://127.0.0.1:27017/shoppyglobe
-   JWT_SECRET=your_jwt_secret
-   PORT=5000
    ```
 
 4. Start the server:
